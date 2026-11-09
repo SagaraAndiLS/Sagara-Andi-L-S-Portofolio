@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:039799,100:1A237E&height=220&section=header&text=Ashafa%20Multazam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Power%20BI&descSize=20&descAlignY=60" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:039799,100:1A237E&height=220&section=header&text=Sagara%20Andi%Ladzuardi%Suwarsa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Power%20BI&descSize=20&descAlignY=60" alt="Header" />
 
 <a href="https://github.com/SagaraAndiLadzuardi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=039799&center=true&vCenter=true&width=700&lines=Mengubah+data+mentah+menjadi+keputusan+bisnis;Membangun+dashboard+yang+mudah+dipahami;Peserta+MSIB+Batch+7+%E2%80%93+RevoU;Terbuka+untuk+peluang+karier+di+bidang+Data" alt="Typing SVG" />

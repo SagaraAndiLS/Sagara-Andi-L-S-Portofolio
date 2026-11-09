@@ -1,29 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:039799,100:1A237E&height=220&section=header&text=Sagara%20Andi%Ladzuardi%Suwarsa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Power%20BI&descSize=20&descAlignY=60" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,100:4364F7&height=220&section=header&text=Sagara%20Andi%20Ladzuardi%20Suwarsa&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Analyst%20%7C%20Power%20BI%20%7C%20SAP&descSize=20&descAlignY=60" alt="Header" />
 
 <a href="https://github.com/SagaraAndiLadzuardi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=039799&center=true&vCenter=true&width=700&lines=Mengubah+data+mentah+menjadi+keputusan+bisnis;Membangun+dashboard+yang+mudah+dipahami;Peserta+MSIB+Batch+7+%E2%80%93+RevoU;Terbuka+untuk+peluang+karier+di+bidang+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Business+Intelligence;S1+Sains+Data+%E2%80%93+Universitas+Koperasi+Indonesia;Certified+Microsoft+Excel+Expert+%26+SAP;Terbuka+untuk+peluang+karier+di+bidang+Data" alt="Typing SVG" />
 </a>
 
 <br>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analyst-brightgreen?style=for-the-badge)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Lihat%20Website-039799?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashafamultazam.github.io/ashafa-portofolio/)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20%26%20BI%20Analyst-00C853?style=for-the-badge&logo=linkedin&logoColor=white)
+![Education](https://img.shields.io/badge/Education-S1%20Sains%20Data-141E30?style=for-the-badge&logo=academicons&logoColor=white)
+![Certification](https://img.shields.io/badge/Excel-Certified%20Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-Analytics%20Cloud-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=SagaraAndiLS&style=for-the-badge"  />
+<img src="https://raw.githubusercontent.com/powxenv/powxenv/output/snake.svg" alt="Snake animation" />
 
+<!-- Tambahkan baris berikut HANYA jika Anda memang menguasainya:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Lihat%20Website-039799?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashafamultazam.github.io/ashafa-portofolio/)
+-->
 </div>
 
 ---
 
 ## 👋 Tentang Saya
 
-Saya seorang **Data Analyst** yang berfokus pada **Business Intelligence**. Saya bekerja dengan satu prinsip: **angka baru berguna kalau bisa mengubah keputusan.**
+Saya lulusan **S1 Sains Data** yang berfokus pada **Digital Business Intelligence**. Saya bekerja dengan satu prinsip: **angka baru berguna kalau bisa mengubah keputusan**.
 
-Karena itu, setiap project saya tidak berhenti di grafik. Saya mencari **pertanyaan bisnisnya**, menemukan **penyebabnya**, lalu menutup dengan **rekomendasi yang bisa ditindaklanjuti**. Saya juga terbiasa memeriksa ulang angka sebelum dipercaya, termasuk menandai ketika sebuah metrik di dashboard ternyata menyesatkan.
+Karena itu, setiap analisis saya tidak berhenti di grafik. Menggabungkan Power BI, Python, dan sertifikasi Excel Expert, saya mencari pertanyaan bisnisnya, membedah variansi operasional & bottleneck, serta memvalidasi ketat angka agar metrik di dashboard tidak menyesatkan, lalu menutupnya dengan rekomendasi yang bisa ditindaklanjuti.   
 
 - 🎓 **Pendidikan:** Universitas Koperasi Indonesia — Sains Data
-- 🧑‍💻 **Program:** Magang dan Studi Independen Bersertifikat (MSIB) Batch 7, **RevoU** — Data Analytics & Gen AI
-- 📍 **Lokasi:** Indonesia
+- 📍  **Lokasi:** Indonesia
 - 🔎 **Mencari:** posisi *Data Analyst* / *Business Intelligence Analyst* (magang atau penuh waktu)
 
 ---
@@ -32,13 +38,12 @@ Karena itu, setiap project saya tidak berhenti di grafik. Saya mencari **pertany
 
 | Bidang | Kemampuan |
 |---|---|
-| 📊 **Visualisasi & BI** | Power BI Desktop, desain dashboard interaktif, KPI, slicer, peta |
-| 🧮 **Pemodelan & Kalkulasi** | DAX (measure, margin, YoY), tabel kalender |
-| 📑 **Pengolahan Data** | Microsoft Excel, pembersihan data CSV, pemeriksaan kualitas data |
-| 💡 **Analisis Bisnis** | Analisis profitabilitas, tren musiman, pengaruh diskon, segmentasi |
-| 🤖 **Generative AI** | Pemanfaatan Gen AI untuk mempercepat analisis dan dokumentasi |
-| 🗣️ **Komunikasi** | Menyusun insight dan rekomendasi dalam bahasa yang mudah dipahami |
-
+| 📊 **Visualisasi & BI** | Power BI Desktop, SAP Analytics Cloud, Desain Dashboard Interaktif, KPI, Slicer |
+| 🧮 **Pemodelan & Statistik** | Python, DAX (Measure, Margin, YoY), Regresi Linear Berganda, Uji McNemar |
+| 📑 **Pengolahan Data** | Microsoft Excel (Certified Expert), Pembersihan Data, Pemeriksaan Kualitas & Validasi Metrik |
+| 💡 **Analisis Bisnis & Operasional** | SI&OP / Operation Planning, Evaluasi Variansi Operasional (*Favorable/Unfavorable*), Identifikasi *Bottleneck*, Efisiensi Waktu Produksi |
+| 🤖 **Tools & Generative AI** | Pemanfaatan Gen AI untuk Analisis & Dokumentasi, Mendeley |
+| 🗣️ **Komunikasi & Kepemimpinan** | Menyusun *Insight* & Rekomendasi *Actionable*, Mentoring Praktikum, Keprotokolan Acara |
 <!-- Tambahkan baris berikut HANYA jika Anda memang menguasainya:
 | 🐍 **Bahasa Pemrograman** | Python (pandas, matplotlib), SQL |
 -->
@@ -49,15 +54,16 @@ Karena itu, setiap project saya tidak berhenti di grafik. Saya mencari **pertany
 
 ```mermaid
 flowchart LR
-    A[❓ Pertanyaan Bisnis] --> B[🧹 Bersihkan Data]
-    B --> C[🧮 Model & DAX]
-    C --> D[📊 Dashboard]
-    D --> E[💡 Insight]
-    E --> F[✅ Rekomendasi]
+    A["❓ Pertanyaan Bisnis"] --> B["🧹 Validasi & Pembersihan Data"]
+    B --> C["🧮 Analisis Operasional & DAX"]
+    C --> D["📊 Dashboard Interaktif"]
+    D --> E["💡 Insight & Akar Masalah"]
+    E --> F["🎯 Rekomendasi Actionable"]
+
 ```
 
 ---
-
+<!-- Tambahkan baris berikut HANYA jika Anda memang menguasainya:
 ## 🚀 Project Unggulan
 
 ### 1️⃣ US Furniture Sales Performance
@@ -128,31 +134,34 @@ flowchart LR
 </td>
 </tr>
 </table>
-
+-->
 ---
 
 ## 🧠 Yang Membedakan Saya
 
-- ✅ **Berorientasi keputusan.** Setiap dashboard saya dilengkapi masalah, temuan, dan rekomendasi.
-- ✅ **Teliti terhadap data.** Saya memeriksa kualitas data dan menandai metrik yang keliru sebelum dipresentasikan.
-- ✅ **Terbuka soal keterbatasan.** Setiap project mencantumkan batasan analisisnya.
-- ✅ **Dokumentasi rapi.** Repo saya memiliki README lengkap, pratinjau, dan petunjuk menjalankan.
-- ✅ **Cepat belajar.** Saya memanfaatkan Gen AI untuk mempercepat kerja tanpa melewatkan verifikasi manual.
+- ✅ **Berorientasi Keputusan.** Setiap analisis tidak berhenti di grafik, melainkan dilengkapi akar penyebab (*bottleneck*), temuan variansi operasional, dan rekomendasi *actionable*.
+- ✅ **Integritas & Validasi Data.** Memeriksa kualitas data secara ketat dan menandai metrik yang berpotensi menyesatkan pada *dashboard* sebelum dipresentasikan.
+- ✅ **Transparan & Objektif.** Selalu terbuka mengenai batasan analisis serta metodologi yang digunakan untuk menjaga keakuratan interpretasi bisnis.
+- ✅ **Dokumentasi Terstruktur.** Repositori disusun rapi dengan README komprehensif, visualisasi pratinjau, dan petunjuk eksekusi kode yang jelas.
+- ✅ **Adaptif & Berbasis AI.** Memanfaatkan Generative AI untuk mengakselerasi pemodelan dan efisiensi kerja tanpa mengabaikan verifikasi manual.
 
 ---
 
-## 📫 Mari Terhubung
+## 📫 Let's Connect!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagaraandiladzuardi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asagara830@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SagaraAndiLS)
+<a href="https://instagram.com/sagaraladzuardi" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@sagaraladzuardi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
+</a>
 
 *Terbuka untuk diskusi, kolaborasi, dan peluang karier di bidang data.*
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A237E,100:039799&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,100:4364F7&height=100&section=footer" alt="Footer" />
 
 </div>

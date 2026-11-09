@@ -18,10 +18,8 @@
 <!-- Tambahkan baris berikut HANYA jika Anda memang menguasainya:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Lihat%20Website-039799?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashafamultazam.github.io/ashafa-portofolio/)
 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/andrei-alessandro/andrei-alessandro/main/assets/rainbow-line.gif" width="100%" height="5px" />
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 👋 Tentang Saya
 
@@ -33,7 +31,7 @@ Karena itu, setiap analisis saya tidak berhenti di grafik. Menggabungkan Power B
 - 📍  **Lokasi:** Indonesia
 - 🔎 **Mencari:** posisi *Data Analyst* / *Business Intelligence Analyst* (magang atau penuh waktu)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=50&section=header" width="100%" />
 
 ## 🛠️ Keahlian
 
@@ -49,7 +47,7 @@ Karena itu, setiap analisis saya tidak berhenti di grafik. Menggabungkan Power B
 | 🐍 **Bahasa Pemrograman** | Python (pandas, matplotlib), SQL |
 -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=50&section=header" width="100%" />
 
 ## 🔄 Cara Saya Bekerja
 
@@ -63,7 +61,7 @@ flowchart LR
 
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=50&section=header" width="100%" />
 <!-- Tambahkan baris berikut HANYA jika Anda memang menguasainya:
 ## 🚀 Project Unggulan
 
@@ -136,7 +134,7 @@ flowchart LR
 </tr>
 </table>
 -->
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=50&section=header" width="100%" />
 
 ## 🧠 Yang Membedakan Saya
 
@@ -146,7 +144,7 @@ flowchart LR
 - ✅ **Dokumentasi Terstruktur.** Repositori disusun rapi dengan README komprehensif, visualisasi pratinjau, dan petunjuk eksekusi kode yang jelas.
 - ✅ **Adaptif & Berbasis AI.** Memanfaatkan Generative AI untuk mengakselerasi pemodelan dan efisiensi kerja tanpa mengabaikan verifikasi manual.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=50&section=header" width="100%" />
 
 ## 📫 Let's Connect!
 

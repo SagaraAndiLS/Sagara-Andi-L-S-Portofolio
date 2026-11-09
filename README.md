@@ -12,13 +12,12 @@
 ![Education](https://img.shields.io/badge/Education-S1%20Sains%20Data-141E30?style=for-the-badge&logo=academicons&logoColor=white)
 ![Certification](https://img.shields.io/badge/Excel-Certified%20Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-Analytics%20Cloud-008FD3?style=for-the-badge&logo=sap&logoColor=white)
-<img src="https://komarev.com/ghpvc/?username=SagaraAndiLS&style=for-the-badge"  />
-<img src="https://raw.githubusercontent.com/powxenv/powxenv/output/snake.svg" alt="Snake animation" />
+
 
 <!-- Tambahkan baris berikut HANYA jika Anda memang menguasainya:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Lihat%20Website-039799?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashafamultazam.github.io/ashafa-portofolio/)
 -->
-<img src="https://raw.githubusercontent.com/andrei-alessandro/andrei-alessandro/main/assets/rainbow-line.gif" width="100%" height="5px" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
 ## 👋 Tentang Saya
@@ -31,7 +30,7 @@ Karena itu, setiap analisis saya tidak berhenti di grafik. Menggabungkan Power B
 - 📍  **Lokasi:** Indonesia
 - 🔎 **Mencari:** posisi *Data Analyst* / *Business Intelligence Analyst* (magang atau penuh waktu)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=50&section=header" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🛠️ Keahlian
 
@@ -47,7 +46,7 @@ Karena itu, setiap analisis saya tidak berhenti di grafik. Menggabungkan Power B
 | 🐍 **Bahasa Pemrograman** | Python (pandas, matplotlib), SQL |
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=50&section=header" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🔄 Cara Saya Bekerja
 
@@ -61,7 +60,7 @@ flowchart LR
 
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=50&section=header" width="100%" />
+
 <!-- Tambahkan baris berikut HANYA jika Anda memang menguasainya:
 ## 🚀 Project Unggulan
 
@@ -134,7 +133,7 @@ flowchart LR
 </tr>
 </table>
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=50&section=header" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🧠 Yang Membedakan Saya
 
@@ -144,7 +143,7 @@ flowchart LR
 - ✅ **Dokumentasi Terstruktur.** Repositori disusun rapi dengan README komprehensif, visualisasi pratinjau, dan petunjuk eksekusi kode yang jelas.
 - ✅ **Adaptif & Berbasis AI.** Memanfaatkan Generative AI untuk mengakselerasi pemodelan dan efisiensi kerja tanpa mengabaikan verifikasi manual.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&height=50&section=header" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 📫 Let's Connect!
 

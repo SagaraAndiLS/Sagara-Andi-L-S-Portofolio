@@ -18,9 +18,10 @@
 <!-- Tambahkan baris berikut HANYA jika Anda memang menguasainya:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Lihat%20Website-039799?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ashafamultazam.github.io/ashafa-portofolio/)
 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 👋 Tentang Saya
 
@@ -154,9 +155,7 @@ flowchart LR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagaraandiladzuardi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asagara830@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SagaraAndiLS)
-<a href="https://instagram.com/sagaraladzuardi" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@sagaraladzuardi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
-</a>
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sagaraladzuardi)
 
 *Terbuka untuk diskusi, kolaborasi, dan peluang karier di bidang data.*
 
